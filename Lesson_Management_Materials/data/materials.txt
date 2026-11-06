@@ -1,0 +1,2 @@
+1	Java introduction	Variables, data types, and System.out.println().
+2	Algebra notes	Review linear equations: 2x + 3 = 11. Solve for x.
